@@ -1,5 +1,5 @@
 <?php
-// @author Michael Chodolak
+//@author Michael Chodolak
 //Had to change from "last" to "Welcome".
 //Kind of weird, but it is the welcome page for the folder.
 class Welcome extends Application {
