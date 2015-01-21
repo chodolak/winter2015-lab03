@@ -46,7 +46,7 @@ $route['sleep'] = "first/zzz";
 $route['lock/(:any)/(:any)'] = "welcome/shucks";
 $route['show/(:num)'] = "first/gimmie/3";
 $route['dunno'] = "guess";
-$route['([a-z A-Z]{4})/bingo'] = "bingo";
+$route['([a-z]{4})/bingo'] = "bingo";
 $route['comp([0-9]{4})/wisdom'] = "bingo/wisdom";
 
 /* End of file routes.php */
